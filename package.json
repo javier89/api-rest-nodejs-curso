@@ -1,0 +1,19 @@
+{
+  "name": "05_Express_part_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.2",
+  "devDependencies": {
+    "config": "^4.1.1",
+    "express": "^5.1.0",
+    "joi": "^18.0.1",
+    "morgan": "^1.10.1"
+  }
+}
